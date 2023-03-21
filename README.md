@@ -30,8 +30,8 @@ The test suite for the Toy Robot Game uses Jasmine. Follow these steps to set up
 
 1. Download the standalone Jasmine release from the official Jasmine GitHub repository: https://github.com/jasmine/jasmine/releases
 2. Extract the downloaded Jasmine release to a folder in your project.
-3. Create a `SpecRunner.html` file in your project folder and set up the Jasmine testing environment as described in the previous responses.
-4. Open the `SpecRunner.html` file in a web browser to run the tests.
+3. Create a `unitTestPage.html` file in your project folder and set up the Jasmine testing environment as described in the previous responses.
+4. Open the `unitTestPage.html` file in a web browser to run the tests.
 
 ## Contributing
 
