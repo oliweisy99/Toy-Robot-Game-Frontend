@@ -162,9 +162,9 @@ class ToyRobotGame {
 
   //Turns the robot 90 degrees to its current left or right, depending on the clockwise parameter (true for right, false for left).
   turn(direction) {
-    if (!this.robot) {
-      return;
-    }
+    if (!this.robot || !['LEFT', 'RIGHT'].includes(direction)) {
+    return;
+  }
     const facingOrder = ['NORTH', 'EAST', 'SOUTH', 'WEST'];
     const currentIndex = facingOrder.indexOf(this.robot.facing);
     let newIndex;
