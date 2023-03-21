@@ -28,10 +28,9 @@ To run the Toy Robot Game, you'll need a modern web browser that supports JavaSc
 
 The test suite for the Toy Robot Game uses Jasmine. Follow these steps to set up the Jasmine testing environment and run the tests:
 
-1. Download the standalone Jasmine release from the official Jasmine GitHub repository: https://github.com/jasmine/jasmine/releases
-2. Extract the downloaded Jasmine release to a folder in your project.
-3. Create a `unitTestPage.html` file in your project folder and set up the Jasmine testing environment as described in the previous responses.
-4. Open the `unitTestPage.html` file in a web browser to run the tests.
+1. Clone the repository or download the project files.
+2. Open the `unitTestPage.html` file in a web browser.
+3. View the results of the tests, using all available links to find further details and refresh the page to renew.
 
 ## Contributing
 
